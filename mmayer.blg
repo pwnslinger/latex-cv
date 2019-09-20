@@ -1,0 +1,5 @@
+[0] Config.pm:302> INFO - This is Biber 2.9
+[0] Config.pm:305> INFO - Logfile is 'mmayer.blg'
+[17] biber:313> INFO - === Thu Sep 19, 2019, 17:34:59
+[30] Biber.pm:371> INFO - Reading 'mmayer.bcf'
+[70] Utils.pm:169> WARN - No data sources defined!
